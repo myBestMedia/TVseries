@@ -15,6 +15,8 @@
 14. Iron Fist
 15. Jonathan Strange & Mr Norrell
 16. Preacher
+17. Stan Against Evil
+18. Legion
 
 ###### Фэнтези (4)
 1. Изумрудный город
@@ -43,6 +45,7 @@
 13. Jekyll & Hyde
 14. Camelot
 15. Once Upon a Time
+16. The Shannara Chronicles
 
 ###### Фэнтези (-)
 1. Волчонок
@@ -83,6 +86,9 @@
 5. The Last Ship
 6. Childhoods End
 7. Dark Angel
+8. Frequency
+9. The Mist
+10. 11.22.63
 
 ###### Фантастика (-)
 1. Scorpion
@@ -126,7 +132,9 @@
 ###### Комедии (4)
 1. Betas
 2. Zapped
+3. London Irish
 
 ###### Комедии (3)
 1. Black Jesus
 2. Bewitched
+3. Tripped

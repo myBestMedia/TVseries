@@ -21,6 +21,7 @@
     1. Mr. Mercedes (5)
     2. Castle Rock
     3. Haven
+    4. Under the Dome
 2. The Vampire Diaries (2)
     1. The Originals (5)
 
@@ -41,7 +42,7 @@
 17. Stan Against Evil
 
 ###### Фэнтези (4)
-1. Изумрудный город
+1. Emerald City
 2. Kindred: The Embraced
 4. Aftermath
 5. Johnny and the Bomb
@@ -51,7 +52,7 @@
 10. Siren
 
 ###### Фэнтези (3)
-1. Голод
+1. The Hunger
 2. Neverwhere
 3. Penny Dreadful
 4. The Nightmare Worlds of H.G. Wells
@@ -69,8 +70,8 @@
 16. The Shannara Chronicles
 
 ###### Фэнтези (-)
-1. Волчонок
-2. Хемлок Гроув
+1. Teen Wolf
+2. Hemlock Grove
 3. Shadowhunters
 4. The Wizards of Aus
 5. Sense8
@@ -86,7 +87,6 @@
 5. Extant
 6. The Man in the High Castle
 7. Mr. Robot
-8. Under the Dome
 9. Limitless
 10. The X Files
 11. Westworld
@@ -188,5 +188,5 @@
 1. Into the Dark
 
 ###### Ужасы и мрачная мистика
-    1. The Haunting of Hill House
+1. The Haunting of Hill House
     

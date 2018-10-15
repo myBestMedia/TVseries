@@ -24,6 +24,8 @@
     4. Under the Dome
 2. The Vampire Diaries (2)
     1. The Originals (5)
+3. Neil Gaiman
+    1. American Gods (5)
 
 ###### Фэнтези (5)
 1. Into the Badlands
@@ -39,7 +41,6 @@
 14. Iron Fist
 15. Jonathan Strange & Mr Norrell
 16. Preacher
-17. Stan Against Evil
 
 ###### Фэнтези (4)
 1. Emerald City
@@ -78,6 +79,7 @@
 6. Lucifer
 7. Continuum: Web Series
 8. A Discovery of Witches
+9. Charmed [2018],(2 ?)
 
 ###### Фантастика (5)
 1. Black Mirror
@@ -105,7 +107,7 @@
 7. Lost in Space
 
 ###### Фантастика (3)
-1. Континуум
+1. Continuum
 2. Dark Matter
 3. Humans
 4. Jericho
@@ -160,7 +162,6 @@
 2. Frasier
 3. Surviving Jack
 4. The Middle
-5. Weeds
 6. The Guild
 7. Suburgatory
 8. Scrubs
@@ -178,15 +179,44 @@
 2. Zapped
 3. London Irish
 4. The Odd Couple
+5. Stan Against Evil
 
 ###### Комедии (3)
 1. Black Jesus
 2. Bewitched
 3. Tripped
+4. Weeds
 
 ###### Комедии (-)
 1. Into the Dark
 
 ###### Ужасы и мрачная мистика
 1. The Haunting of Hill House
-    
+
+###### аниме
+1. Psycho-Pass (5)
+2. Burakku ragun (5)
+    1. Black Lagoon: Roberta's Blood Trail
+3. Re: Zero kara Hajimeru Isekai Seikatsu (5)
+4. Suisei no Gargantia (3)
+    1. Suisei no Gargantia: Meguru Kouro, Haruka (2)
+5. Death March kara Hajimaru Isekai Kyousoukyoku (3)
+6. Gangsta (3)
+7. Gate: Jieitai Kanochi nite, Kaku Tatakaeri (2)
+8. Hamatora the Animation (3)
+    1. Re: Hamatora (3)
+9. Kiseijuu: Sei no Kakuritsu (5)
+10. Trickster: Edogawa Ranpo "Shounen Tanteidan" yori (2)
+11. Quanzhi Fashi (-)
+12. Tensei shitara Slime Datta Ken
+13. To aru majutsu no indekkusu (-)
+14. Kokkoku (5)
+15. Cowboy Bebop (4)
+    1. Cowboy Bebop: The Movie (4)
+16. Steins;Gate (5)
+    1. Gekijouban Steins;Gate: Fuka Ryouiki no Deja vu
+    2. Steins;Gate: Soumei Eichi no Cognitive Computing
+    3. Steins;Gate 0
+17. Chaos; Head
+    1. Chaos;Child
+    2. ChaoS;Child: Silent Sky
